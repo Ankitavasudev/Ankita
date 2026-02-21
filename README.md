@@ -18,10 +18,4 @@
 - 💡 Always curious always growing
 - 📍 India
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TERA_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-### 🤝 Let's Connect!
-[![LinkedIn](www.linkedin.com/in/ankita-salaria-92104738a)
+### Wishing to learn and implement many cool things .
