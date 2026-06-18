@@ -1,5 +1,5 @@
 # Ankita
-# Hey there! I'm [Ankita] 👋
+# Hey there! I'm Akki 👋
 
 ### 🚀 Aspiring AI/ML Developer from India
 
